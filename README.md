@@ -71,5 +71,13 @@ Score: 6 / 6
 - Understanding basic password security concepts.
 - Developing a simple cybersecurity utility.
 
+## 8. Project Demonstration
+
+### Live Demo Video
+
+[![Watch Password Strength Checker Demo](https://drive.google.com/thumbnail?id=1he8mXY1qUjNVxiFgW4_862X9oWgTkn4m&sz=w1000)](https://drive.google.com/file/d/1he8mXY1qUjNVxiFgW4_862X9oWgTkn4m/preview)
+
+**[▶ Watch Password Strength Checker Demonstration](https://drive.google.com/file/d/1he8mXY1qUjNVxiFgW4_862X9oWgTkn4m/view)**
+
 ## Author
 Cybersecurity Internship Demonstration Project.
